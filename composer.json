@@ -1,5 +1,5 @@
 {
-    "name": "eriktorsner/geckoboard",
+    "name": "carlosio/geckoboard",
     "description": "A PHP library for dealing with Geckoboard API (http://www.geckoboard.com)",
     "license": "MIT",
     "authors": [
