@@ -83,7 +83,7 @@ class LineChartV2 extends Widget
      */
     public function getData()
     {
-        $ret = array('series' = $this->getSeries());
+        $ret = array('series' => $this->getSeries());
         if ($this->xAxis) {
             $ret['x_axis'] = $this->xAxis;
         }
